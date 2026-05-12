@@ -1,4 +1,4 @@
-# Catalyst-Brain
+# catalyst brain
 
 Standalone adsorption-site optimization agent extracted from the original research workspace.
 
@@ -17,7 +17,7 @@ FairChem's license is kept at `fairchem-forked/LICENSE.md`.
 ## Setup
 
 ```bash
-cd Catalyst-Brain
+cd catalyst brain
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt

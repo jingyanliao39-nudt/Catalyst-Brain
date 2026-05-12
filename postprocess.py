@@ -23,7 +23,7 @@ import argparse
 from project_paths import project_path
 argparser = argparse.ArgumentParser()
 
-argparser.add_argument("--dir", type=str, default="results/sub_qwen_153M_rep3/")
+argparser.add_argument("--dir", type=str, default="results/template_run/")
 args = argparser.parse_args()
 
 

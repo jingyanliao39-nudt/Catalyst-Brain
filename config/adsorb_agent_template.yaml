@@ -11,7 +11,6 @@ agent_settings:
 
   # Relative paths are resolved from the project root.
   gnn_model: "checkpoints/eq2_31M_ec4_allmd.pt"
-  # gnn_model: "checkpoints/eq2_153M_ec4_allmd.pt"
 
   mode: "llm-guided"
   critic_activate: true
