@@ -1,0 +1,40 @@
+agent_settings:
+  # Providers supported by adsorb_agent_core/core_02_llm.py:
+  # openai, anthropic, deepseek, gpt5, claude, gemini, qwen
+  provider: "claude"
+  version: "claude-opus-4-6"
+  base_url: "https://api.huiyan-ai.cn/v1"
+
+  llm_timeout: 120
+  llm_max_retries: 2
+  llm_temperature: 0
+
+  # Relative paths are resolved from the project root.
+  gnn_model: "checkpoints/eq2_31M_ec4_allmd.pt"
+  # gnn_model: "checkpoints/eq2_153M_ec4_allmd.pt"
+
+  mode: "llm-guided"
+  critic_activate: true
+  random_ratio: 0.2
+  init_multiplier: 1.5
+  num_workers: 1
+
+  num_sites_per_llm: 20
+  max_rounds: 10
+  rollback_patience: 1
+  use_result_llm: true
+  energy_worsen_threshold: 0.3
+
+  site_atoms_start_radius: null
+  site_atoms_radius_step: 0.2
+  site_atoms_max_radius: 4.0
+  max_regen_attempts: 4
+
+paths:
+  question_path: "reasoning/reasoning.txt"
+  knowledge_path: "reasoning/knowledge.txt"
+  metadata_path: "data/processed/updated_sid_to_details.pkl"
+  bulk_db_path: "fairchem-forked/src/fairchem/data/oc/databases/pkls/bulks.pkl"
+  ads_db_path: "fairchem-forked/src/fairchem/data/oc/databases/pkls/adsorbates.pkl"
+  save_dir: "results/template_run"
+  system_dir: "config/systems"

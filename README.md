@@ -40,8 +40,10 @@ The default configs use relative paths. Add your metadata and FairChem database 
 
 ## Run
 
+Edit `config/adsorb_agent_template.yaml` for model/provider settings and add or copy system YAMLs under `config/systems/`.
+
 ```bash
-python main_adsorb_agent.py --path config/adsorb_agent_demo_claude_rep3.yaml
+python main_adsorb_agent.py --path config/adsorb_agent_template.yaml
 ```
 
 Results are written under `results/`, which is ignored by Git.
