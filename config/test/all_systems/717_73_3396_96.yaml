@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 79
+  bulk_id: mp-1224870
+  bulk_symbol: Ga5Ag13
+  ads_smiles: '*NONH'
+  miller: (1,2,2)
+  shift: 0.122
+  top: true
+  source_system_id: 73_3396_96

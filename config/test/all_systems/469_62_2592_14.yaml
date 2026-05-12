@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 74
+  bulk_id: mp-2614
+  bulk_symbol: HfAl3
+  ads_smiles: '*ONH'
+  miller: (1,0,1)
+  shift: 0.125
+  top: false
+  source_system_id: 62_2592_14

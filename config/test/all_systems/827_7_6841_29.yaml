@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 111
+  bulk_id: mp-11580
+  bulk_symbol: TiCrP
+  ads_smiles: '*CHO'
+  miller: (2,1,2)
+  shift: 0.057
+  top: true
+  source_system_id: 7_6841_29

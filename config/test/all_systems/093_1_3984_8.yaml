@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 167
+  bulk_id: mp-1188061
+  bulk_symbol: Zr3Sn
+  ads_smiles: '*H'
+  miller: (2,1,1)
+  shift: 0.0
+  top: true
+  source_system_id: 1_3984_8

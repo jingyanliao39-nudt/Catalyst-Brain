@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 77
+  bulk_id: mp-556916
+  bulk_symbol: GaAgS2
+  ads_smiles: '*OHCH3'
+  miller: (1,2,0)
+  shift: 0.082
+  top: false
+  source_system_id: 16_4103_115

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 97
+  bulk_id: mp-10739
+  bulk_symbol: TiPRu
+  ads_smiles: '*CH'
+  miller: (1,1,1)
+  shift: 0.097
+  top: true
+  source_system_id: 6_6164_2

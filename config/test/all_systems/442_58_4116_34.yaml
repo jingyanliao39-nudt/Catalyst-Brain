@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 21
+  bulk_id: mp-20554
+  bulk_symbol: InAgSe2
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (1,0,1)
+  shift: 0.315
+  top: false
+  source_system_id: 58_4116_34

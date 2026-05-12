@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 103
+  bulk_id: mp-30180
+  bulk_symbol: Al4Mo
+  ads_smiles: '*OCH2CHOH'
+  miller: (1,1,-2)
+  shift: 0.031
+  top: true
+  source_system_id: 48_646_300

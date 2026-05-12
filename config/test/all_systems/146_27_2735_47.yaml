@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 89
+  bulk_id: mp-569322
+  bulk_symbol: Te2Ir
+  ads_smiles: '*CHCHO'
+  miller: (1,2,2)
+  shift: 0.097
+  top: true
+  source_system_id: 27_2735_47

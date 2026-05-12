@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 61
+  bulk_id: mp-2330
+  bulk_symbol: Nb2Se3
+  ads_smiles: '*CHCH2OH'
+  miller: (0,1,1)
+  shift: 0.178
+  top: true
+  source_system_id: 47_1413_166

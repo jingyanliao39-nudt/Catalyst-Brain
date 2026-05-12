@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 25
+  bulk_id: mp-977371
+  bulk_symbol: PW4Cl11
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (1,1,0)
+  shift: 0.077
+  top: true
+  source_system_id: 58_8049_45

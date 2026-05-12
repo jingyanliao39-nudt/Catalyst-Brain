@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 67
+  bulk_id: mp-1079361
+  bulk_symbol: YAlCu
+  ads_smiles: '*NH2'
+  miller: (2,1,0)
+  shift: 0.176
+  top: false
+  source_system_id: 71_6612_63

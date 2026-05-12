@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 155
+  bulk_id: mp-20672
+  bulk_symbol: Hf3P2
+  ads_smiles: '*C'
+  miller: (1,2,1)
+  shift: 0.135
+  top: false
+  source_system_id: 4_2274_75

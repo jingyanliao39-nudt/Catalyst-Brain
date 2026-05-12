@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 28
+  bulk_id: mp-1077482
+  bulk_symbol: TiH2
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (2,2,1)
+  shift: 0.125
+  top: true
+  source_system_id: 58_1788_6

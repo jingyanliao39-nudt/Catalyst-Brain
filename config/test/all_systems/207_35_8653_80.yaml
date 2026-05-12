@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 69
+  bulk_id: mp-1193822
+  bulk_symbol: Sc3Si3Rh
+  ads_smiles: '*COCH3'
+  miller: (1,2,1)
+  shift: 0.087
+  top: true
+  source_system_id: 35_8653_80

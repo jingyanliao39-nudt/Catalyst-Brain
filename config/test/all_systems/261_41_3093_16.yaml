@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 139
+  bulk_id: mp-672313
+  bulk_symbol: Sc6Pb5
+  ads_smiles: '*COCH2OH'
+  miller: (2,2,1)
+  shift: 0.036
+  top: false
+  source_system_id: 41_3093_16

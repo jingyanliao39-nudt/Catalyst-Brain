@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 22
+  bulk_id: mp-639805
+  bulk_symbol: Ta3Ge
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (1,1,0)
+  shift: 0.078
+  top: false
+  source_system_id: 58_2740_32

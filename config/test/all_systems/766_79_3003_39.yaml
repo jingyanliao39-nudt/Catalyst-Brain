@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 53
+  bulk_id: mp-11456
+  bulk_symbol: HfPt3
+  ads_smiles: '*OHNH2'
+  miller: (1,0,0)
+  shift: 0.419
+  top: false
+  source_system_id: 79_3003_39

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 171
+  bulk_id: mp-181
+  bulk_symbol: KGa3
+  ads_smiles: '*CH'
+  miller: (2,1,2)
+  shift: 0.042
+  top: true
+  source_system_id: 6_1659_19

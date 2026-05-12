@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 65
+  bulk_id: mp-21945
+  bulk_symbol: Ge3Ru2
+  ads_smiles: '*OHNH2'
+  miller: (1,0,0)
+  shift: 0.173
+  top: false
+  source_system_id: 79_764_80

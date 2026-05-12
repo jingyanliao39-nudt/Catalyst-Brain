@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 242
+  bulk_id: mp-1869
+  bulk_symbol: GaPd2
+  ads_smiles: '*CH*CH'
+  miller: (2,1,1)
+  shift: 0.163
+  top: false
+  source_system_id: 25_392_37

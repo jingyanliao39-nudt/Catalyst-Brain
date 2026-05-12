@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 107
+  bulk_id: mp-1215259
+  bulk_symbol: ZrTiPt
+  ads_smiles: '*CH'
+  miller: (1,1,2)
+  shift: 0.139
+  top: true
+  source_system_id: 6_9786_122

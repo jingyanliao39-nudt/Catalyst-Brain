@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 32
+  bulk_id: mp-1186901
+  bulk_symbol: Re
+  ads_smiles: '*CHOCHOH'
+  miller: (1,0,2)
+  shift: 0.083
+  top: false
+  source_system_id: 40_94_25

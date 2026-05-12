@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 45
+  bulk_id: mp-30356
+  bulk_symbol: SrAg2
+  ads_smiles: '*COCH2OH'
+  miller: (0,2,1)
+  shift: 0.0
+  top: true
+  source_system_id: 41_2828_49

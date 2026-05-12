@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 26
+  bulk_id: mp-1220057
+  bulk_symbol: NiPd
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (1,0,1)
+  shift: 0.25
+  top: true
+  source_system_id: 58_3684_12

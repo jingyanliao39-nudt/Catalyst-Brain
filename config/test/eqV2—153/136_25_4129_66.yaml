@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 104
+  bulk_id: mp-10049
+  bulk_symbol: MnAsRu
+  ads_smiles: '*CH*CH'
+  miller: (1,0,1)
+  shift: 0.295
+  top: false
+  source_system_id: 25_4129_66

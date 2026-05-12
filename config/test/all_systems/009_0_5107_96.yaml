@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 103
+  bulk_id: mp-22287
+  bulk_symbol: NbGeIr
+  ads_smiles: '*O'
+  miller: (0,1,0)
+  shift: 0.192
+  top: true
+  source_system_id: 0_5107_96

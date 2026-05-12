@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 80
+  bulk_id: mp-1210697
+  bulk_symbol: Na(SrAs)4
+  ads_smiles: '*COH'
+  miller: (0,1,0)
+  shift: 0.106
+  top: false
+  source_system_id: 8_10605_224

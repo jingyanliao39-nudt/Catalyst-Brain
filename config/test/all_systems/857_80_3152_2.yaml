@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 63
+  bulk_id: mp-1188697
+  bulk_symbol: Zr5Ir3
+  ads_smiles: '*ONOH'
+  miller: (1,1,1)
+  shift: 0.135
+  top: true
+  source_system_id: 80_3152_2

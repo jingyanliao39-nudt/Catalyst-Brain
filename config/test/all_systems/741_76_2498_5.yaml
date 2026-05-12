@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 107
+  bulk_id: mp-20291
+  bulk_symbol: YPb3
+  ads_smiles: '*NO'
+  miller: (2,1,1)
+  shift: 0.062
+  top: true
+  source_system_id: 76_2498_5

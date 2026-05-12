@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 91
+  bulk_id: mp-1215751
+  bulk_symbol: Zr10(IrPt)3
+  ads_smiles: '*ONOH'
+  miller: (2,0,1)
+  shift: 0.049
+  top: true
+  source_system_id: 80_8848_95

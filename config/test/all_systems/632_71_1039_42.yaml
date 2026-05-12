@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 108
+  bulk_id: mp-518
+  bulk_symbol: Ti5Re24
+  ads_smiles: '*NH2'
+  miller: (1,1,0)
+  shift: 0.194
+  top: false
+  source_system_id: 71_1039_42

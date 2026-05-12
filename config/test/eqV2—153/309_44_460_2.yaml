@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 117
+  bulk_id: mp-972828
+  bulk_symbol: Cu3Si
+  ads_smiles: '*OCHCH3'
+  miller: (2,2,1)
+  shift: 0.031
+  top: true
+  source_system_id: 44_460_2

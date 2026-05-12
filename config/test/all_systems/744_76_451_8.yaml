@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 106
+  bulk_id: mp-2211
+  bulk_symbol: V3Pt
+  ads_smiles: '*NO'
+  miller: (2,1,1)
+  shift: 0.031
+  top: true
+  source_system_id: 76_451_8

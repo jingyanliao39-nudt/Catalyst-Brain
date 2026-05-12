@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 62
+  bulk_id: mp-1018153
+  bulk_symbol: HfAu2
+  ads_smiles: '*CH2CH2OH'
+  miller: (1,0,2)
+  shift: 0.028
+  top: false
+  source_system_id: 55_2533_26

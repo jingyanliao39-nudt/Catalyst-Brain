@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 103
+  bulk_id: mp-865382
+  bulk_symbol: V3Ru
+  ads_smiles: '*O'
+  miller: (1,1,1)
+  shift: 0.042
+  top: true
+  source_system_id: 0_1190_0

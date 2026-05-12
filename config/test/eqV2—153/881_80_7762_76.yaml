@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 83
+  bulk_id: mp-22233
+  bulk_symbol: Zr4Co4Ge7
+  ads_smiles: '*ONOH'
+  miller: (1,0,0)
+  shift: 0.144
+  top: true
+  source_system_id: 80_7762_76

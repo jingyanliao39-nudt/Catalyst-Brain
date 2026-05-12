@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 97
+  bulk_id: mp-933
+  bulk_symbol: YAs
+  ads_smiles: 'CH2*CO'
+  miller: (1,1,0)
+  shift: 0.125
+  top: true
+  source_system_id: 26_2047_3

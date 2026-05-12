@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 55
+  bulk_id: mp-22236
+  bulk_symbol: In3Co
+  ads_smiles: '*COCH3'
+  miller: (1,1,2)
+  shift: 0.06
+  top: false
+  source_system_id: 35_275_70

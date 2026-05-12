@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 30
+  bulk_id: mp-1218329
+  bulk_symbol: SrCdGa
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (1,2,0)
+  shift: 0.125
+  top: true
+  source_system_id: 58_8622_75

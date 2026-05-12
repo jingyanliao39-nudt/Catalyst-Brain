@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 135
+  bulk_id: mp-12459
+  bulk_symbol: Ag3PS4
+  ads_smiles: '*CH'
+  miller: (2,2,1)
+  shift: 0.034
+  top: false
+  source_system_id: 6_7615_33

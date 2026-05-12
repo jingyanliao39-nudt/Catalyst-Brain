@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 78
+  bulk_id: mp-22463
+  bulk_symbol: TiInNi2
+  ads_smiles: '*OHNH2'
+  miller: (2,2,1)
+  shift: 0.025
+  top: false
+  source_system_id: 79_4503_5

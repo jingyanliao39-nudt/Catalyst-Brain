@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 69
+  bulk_id: mp-27467
+  bulk_symbol: Ta6S
+  ads_smiles: '*CHCHOH'
+  miller: (0,1,0)
+  shift: 0.0
+  top: true
+  source_system_id: 38_2999_180

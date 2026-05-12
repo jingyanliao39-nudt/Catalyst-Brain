@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 78
+  bulk_id: mp-1095544
+  bulk_symbol: ScGaPd
+  ads_smiles: '*NHNH'
+  miller: (0,0,1)
+  shift: 0.25
+  top: true
+  source_system_id: 63_7771_126

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 79
+  bulk_id: mp-1216675
+  bulk_symbol: TiMo2
+  ads_smiles: '*CCH3'
+  miller: (0,1,0)
+  shift: 0.25
+  top: true
+  source_system_id: 33_3498_40

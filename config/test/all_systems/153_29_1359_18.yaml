@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 37
+  bulk_id: mp-774
+  bulk_symbol: CaNi5
+  ads_smiles: '*COCH2O'
+  miller: (1,0,1)
+  shift: 0.083
+  top: true
+  source_system_id: 29_1359_18

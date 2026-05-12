@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 79
+  bulk_id: mp-104
+  bulk_symbol: Sb
+  ads_smiles: '*CCH'
+  miller: (2,-1,2)
+  shift: 0.083
+  top: true
+  source_system_id: 19_13_14

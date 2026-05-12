@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 99
+  bulk_id: mp-568115
+  bulk_symbol: Zr5Si3
+  ads_smiles: '*NH3'
+  miller: (1,0,2)
+  shift: 0.145
+  top: false
+  source_system_id: 72_2959_73

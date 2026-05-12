@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 46
+  bulk_id: mp-1018804
+  bulk_symbol: MnS2
+  ads_smiles: '*COCH2OH'
+  miller: (1,1,1)
+  shift: 0.055
+  top: false
+  source_system_id: 41_1573_3

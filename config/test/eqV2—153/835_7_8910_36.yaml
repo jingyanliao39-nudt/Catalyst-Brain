@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 99
+  bulk_id: mp-1227661
+  bulk_symbol: Ca2Zn3Ga
+  ads_smiles: '*CHO'
+  miller: (1,1,-1)
+  shift: 0.076
+  top: true
+  source_system_id: 7_8910_36

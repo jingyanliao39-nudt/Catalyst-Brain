@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 64
+  bulk_id: mp-900
+  bulk_symbol: RhSe
+  ads_smiles: '*COCH2OH'
+  miller: (1,1,1)
+  shift: 0.062
+  top: false
+  source_system_id: 41_1146_1

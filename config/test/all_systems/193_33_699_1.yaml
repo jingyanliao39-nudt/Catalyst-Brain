@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 69
+  bulk_id: mp-2172
+  bulk_symbol: AlAs
+  ads_smiles: '*CCH3'
+  miller: (1,1,1)
+  shift: 0.208
+  top: true
+  source_system_id: 33_699_1

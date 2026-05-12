@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 109
+  bulk_id: mp-1186973
+  bulk_symbol: ScAg3
+  ads_smiles: '*ONOH'
+  miller: (1,1,0)
+  shift: 0.125
+  top: true
+  source_system_id: 80_3628_6

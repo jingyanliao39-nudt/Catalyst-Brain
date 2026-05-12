@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 94
+  bulk_id: mp-1079802
+  bulk_symbol: YNiGe2
+  ads_smiles: '*COHCH3'
+  miller: (1,1,0)
+  shift: 0.287
+  top: false
+  source_system_id: 45_10468_21

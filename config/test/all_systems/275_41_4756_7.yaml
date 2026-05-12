@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 50
+  bulk_id: mp-861619
+  bulk_symbol: TiZnPt2
+  ads_smiles: '*COCH2OH'
+  miller: (2,1,1)
+  shift: 0.062
+  top: true
+  source_system_id: 41_4756_7

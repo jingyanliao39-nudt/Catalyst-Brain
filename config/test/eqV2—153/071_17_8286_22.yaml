@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 118
+  bulk_id: mp-1224408
+  bulk_symbol: Hf6Al2Co
+  ads_smiles: '*C*C'
+  miller: (1,1,0)
+  shift: 0.449
+  top: true
+  source_system_id: 17_8286_22

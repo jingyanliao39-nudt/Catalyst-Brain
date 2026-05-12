@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 37
+  bulk_id: mp-1228186
+  bulk_symbol: Al4Ni3Pt
+  ads_smiles: '*COCH2OH'
+  miller: (2,0,1)
+  shift: 0.036
+  top: true
+  source_system_id: 41_10309_39

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 113
+  bulk_id: mp-11609
+  bulk_symbol: Sb(MoS)2
+  ads_smiles: '*H'
+  miller: (1,0,0)
+  shift: 0.055
+  top: true
+  source_system_id: 1_4526_86

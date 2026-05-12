@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 98
+  bulk_id: mp-1224257
+  bulk_symbol: HfTiN2
+  ads_smiles: '*ONOH'
+  miller: (1,1,1)
+  shift: 0.083
+  top: false
+  source_system_id: 80_9443_1

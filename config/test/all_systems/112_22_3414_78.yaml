@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 66
+  bulk_id: mp-1228956
+  bulk_symbol: AlAu4
+  ads_smiles: '*COCHO'
+  miller: (1,2,-1)
+  shift: 0.125
+  top: true
+  source_system_id: 22_3414_78

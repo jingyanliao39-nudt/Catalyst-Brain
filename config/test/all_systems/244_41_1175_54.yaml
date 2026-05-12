@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 44
+  bulk_id: mp-799
+  bulk_symbol: V3S4
+  ads_smiles: '*COCH2OH'
+  miller: (1,0,1)
+  shift: 0.083
+  top: false
+  source_system_id: 41_1175_54

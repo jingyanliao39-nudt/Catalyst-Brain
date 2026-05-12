@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 90
+  bulk_id: mp-1223642
+  bulk_symbol: InGaP2
+  ads_smiles: '*CH2'
+  miller: (1,1,0)
+  shift: 0.25
+  top: true
+  source_system_id: 9_9452_8

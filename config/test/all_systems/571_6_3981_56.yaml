@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 147
+  bulk_id: mp-2296
+  bulk_symbol: Ni3P
+  ads_smiles: '*CH'
+  miller: (2,1,1)
+  shift: 0.29
+  top: true
+  source_system_id: 6_3981_56

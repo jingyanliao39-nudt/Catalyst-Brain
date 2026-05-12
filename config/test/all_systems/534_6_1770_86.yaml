@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 140
+  bulk_id: mp-1078696
+  bulk_symbol: PbS
+  ads_smiles: '*CH'
+  miller: (1,2,1)
+  shift: 0.25
+  top: true
+  source_system_id: 6_1770_86

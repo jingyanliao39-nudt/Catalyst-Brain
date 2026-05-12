@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 67
+  bulk_id: mp-21220
+  bulk_symbol: CaIn4Rh
+  ads_smiles: '*CHOHCHOH'
+  miller: (0,2,1)
+  shift: 0.234
+  top: true
+  source_system_id: 51_4982_111

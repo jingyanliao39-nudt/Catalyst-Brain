@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 54
+  bulk_id: mp-641509
+  bulk_symbol: In9Ni13
+  ads_smiles: '*COCH2OH'
+  miller: (0,1,0)
+  shift: 0.238
+  top: true
+  source_system_id: 41_351_158

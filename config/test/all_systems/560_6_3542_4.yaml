@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 116
+  bulk_id: mp-1183705
+  bulk_symbol: Cr3Pt
+  ads_smiles: '*CH'
+  miller: (2,2,1)
+  shift: 0.051
+  top: true
+  source_system_id: 6_3542_4

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 272
+  bulk_id: mp-7459
+  bulk_symbol: Te2Mo
+  ads_smiles: '*CH*CH'
+  miller: (1,2,1)
+  shift: 0.052
+  top: true
+  source_system_id: 25_1958_61

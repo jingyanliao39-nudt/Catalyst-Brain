@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 56
+  bulk_id: mp-1225197
+  bulk_symbol: Fe3Ge2
+  ads_smiles: '*CHCH2OH'
+  miller: (2,1,0)
+  shift: 0.167
+  top: true
+  source_system_id: 47_3369_22

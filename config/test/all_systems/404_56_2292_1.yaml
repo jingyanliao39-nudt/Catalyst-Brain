@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 42
+  bulk_id: mp-616512
+  bulk_symbol: Y3Co2
+  ads_smiles: '*CHOHCH2OH'
+  miller: (1,1,1)
+  shift: 0.111
+  top: true
+  source_system_id: 56_2292_1

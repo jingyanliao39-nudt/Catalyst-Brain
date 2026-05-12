@@ -1,0 +1,9 @@
+system_info:
+  ads_smiles: '*CH2*O'
+  bulk_id: mp-992
+  bulk_symbol: CaGa2
+  miller: (2,0,1)
+  num_site: 72
+  shift: 0.028
+  system_id: null
+  top: true

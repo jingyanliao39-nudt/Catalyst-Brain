@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 86
+  bulk_id: mp-5131
+  bulk_symbol: K2CoS2
+  ads_smiles: '*ONOH'
+  miller: (0,1,1)
+  shift: 0.135
+  top: true
+  source_system_id: 80_5748_71

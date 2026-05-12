@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 67
+  bulk_id: mp-1080559
+  bulk_symbol: In(GaAu)2
+  ads_smiles: '*COH'
+  miller: (2,-1,2)
+  shift: 0.101
+  top: false
+  source_system_id: 8_5376_44

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 113
+  bulk_id: mp-1215220
+  bulk_symbol: ZrMoW
+  ads_smiles: '*NH2'
+  miller: (1,0,2)
+  shift: 0.042
+  top: true
+  source_system_id: 71_9489_30

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 99
+  bulk_id: mp-20250
+  bulk_symbol: PdS
+  ads_smiles: '*CHO'
+  miller: (1,1,0)
+  shift: 0.193
+  top: false
+  source_system_id: 7_1023_17

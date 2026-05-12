@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 64
+  bulk_id: mp-865430
+  bulk_symbol: YTe
+  ads_smiles: '*CHO'
+  miller: (0,0,1)
+  shift: 0.25
+  top: false
+  source_system_id: 7_2496_31

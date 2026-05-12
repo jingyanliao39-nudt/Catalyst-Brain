@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 93
+  bulk_id: mp-1186109
+  bulk_symbol: NaAu3
+  ads_smiles: '*CH'
+  miller: (2,1,1)
+  shift: 0.042
+  top: false
+  source_system_id: 6_3558_9

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 112
+  bulk_id: mp-1079131
+  bulk_symbol: VIr
+  ads_smiles: '*CCH2'
+  miller: (1,1,2)
+  shift: 0.123
+  top: true
+  source_system_id: 24_1763_46

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 123
+  bulk_id: mp-1017541
+  bulk_symbol: ZrIr
+  ads_smiles: '*CH*CH'
+  miller: (2,1,1)
+  shift: 0.125
+  top: true
+  source_system_id: 25_2691_7

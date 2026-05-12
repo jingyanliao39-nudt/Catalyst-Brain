@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 62
+  bulk_id: mp-570957
+  bulk_symbol: CsSiTe3
+  ads_smiles: '*COCH2OH'
+  miller: (1,1,-1)
+  shift: 0.242
+  top: true
+  source_system_id: 41_6388_116

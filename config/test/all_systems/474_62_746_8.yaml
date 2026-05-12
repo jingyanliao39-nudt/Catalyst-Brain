@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 93
+  bulk_id: mp-604910
+  bulk_symbol: MnSe
+  ads_smiles: '*ONH'
+  miller: (2,1,2)
+  shift: 0.05
+  top: true
+  source_system_id: 62_746_8

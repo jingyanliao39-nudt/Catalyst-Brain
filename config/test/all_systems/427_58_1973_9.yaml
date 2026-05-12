@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 32
+  bulk_id: mp-570832
+  bulk_symbol: SrPt5
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (2,1,2)
+  shift: 0.083
+  top: false
+  source_system_id: 58_1973_9

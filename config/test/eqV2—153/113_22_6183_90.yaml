@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 52
+  bulk_id: mp-505467
+  bulk_symbol: YSiPd
+  ads_smiles: '*COCHO'
+  miller: (0,1,1)
+  shift: 0.719
+  top: true
+  source_system_id: 22_6183_90

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 75
+  bulk_id: mp-31379
+  bulk_symbol: Zr2Sb
+  ads_smiles: '*CH2CH3'
+  miller: (1,0,1)
+  shift: 0.411
+  top: true
+  source_system_id: 52_2758_23

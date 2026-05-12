@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 104
+  bulk_id: mp-29266
+  bulk_symbol: CsS
+  ads_smiles: '*O'
+  miller: (0,1,0)
+  shift: 0.25
+  top: true
+  source_system_id: 0_2374_49

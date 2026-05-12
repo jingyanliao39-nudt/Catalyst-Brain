@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 175
+  bulk_id: mp-17728
+  bulk_symbol: Ta3Ge
+  ads_smiles: '*CH'
+  miller: (2,0,1)
+  shift: 0.069
+  top: false
+  source_system_id: 6_2300_108

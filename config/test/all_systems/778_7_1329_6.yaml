@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 73
+  bulk_id: mp-24154
+  bulk_symbol: NbH2
+  ads_smiles: '*CHO'
+  miller: (2,1,1)
+  shift: 0.062
+  top: true
+  source_system_id: 7_1329_6

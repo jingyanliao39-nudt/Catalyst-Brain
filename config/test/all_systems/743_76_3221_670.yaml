@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 141
+  bulk_id: mp-1220657
+  bulk_symbol: Nb3S5
+  ads_smiles: '*NO'
+  miller: (1,-2,1)
+  shift: 0.243
+  top: false
+  source_system_id: 76_3221_670

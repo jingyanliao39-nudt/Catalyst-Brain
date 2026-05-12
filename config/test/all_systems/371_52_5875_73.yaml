@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 35
+  bulk_id: mp-14623
+  bulk_symbol: K5CuAs2
+  ads_smiles: '*CH2CH3'
+  miller: (1,0,2)
+  shift: 0.201
+  top: false
+  source_system_id: 52_5875_73

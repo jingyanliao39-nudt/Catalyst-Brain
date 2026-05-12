@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 45
+  bulk_id: mp-1215570
+  bulk_symbol: Zr3(Sn2Sb)2
+  ads_smiles: '*CHCHOH'
+  miller: (0,1,1)
+  shift: 0.145
+  top: false
+  source_system_id: 38_8816_134

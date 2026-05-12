@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 11
+  bulk_id: mp-1215438
+  bulk_symbol: Zn2CuNi
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (2,0,1)
+  shift: 0.19
+  top: false
+  source_system_id: 58_11004_23

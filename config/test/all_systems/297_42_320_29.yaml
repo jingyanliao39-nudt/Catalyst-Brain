@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 48
+  bulk_id: mp-865798
+  bulk_symbol: GaCu3
+  ads_smiles: '*COHCHOH'
+  miller: (1,0,2)
+  shift: 0.126
+  top: true
+  source_system_id: 42_320_29

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 104
+  bulk_id: mp-21233
+  bulk_symbol: Ti3InN
+  ads_smiles: '*NH3'
+  miller: (2,2,1)
+  shift: 0.05
+  top: true
+  source_system_id: 72_4476_2

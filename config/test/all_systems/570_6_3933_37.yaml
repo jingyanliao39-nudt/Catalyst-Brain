@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 82
+  bulk_id: mp-11814
+  bulk_symbol: Rb2Au3
+  ads_smiles: '*CH'
+  miller: (1,1,2)
+  shift: 0.013
+  top: true
+  source_system_id: 6_3933_37

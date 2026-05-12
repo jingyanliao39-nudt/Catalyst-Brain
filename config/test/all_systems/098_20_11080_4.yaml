@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 61
+  bulk_id: mp-640024
+  bulk_symbol: HfInNi2
+  ads_smiles: '*CHCO'
+  miller: (2,2,1)
+  shift: 0.025
+  top: true
+  source_system_id: 20_11080_4

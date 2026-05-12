@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 173
+  bulk_id: mp-1095672
+  bulk_symbol: Ta2V3Si
+  ads_smiles: '*N*NH'
+  miller: (1,1,1)
+  shift: 0.081
+  top: false
+  source_system_id: 65_7180_3

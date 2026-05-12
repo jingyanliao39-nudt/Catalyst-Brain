@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 93
+  bulk_id: mp-961682
+  bulk_symbol: TiSnPd
+  ads_smiles: '*COH'
+  miller: (2,2,1)
+  shift: 0.025
+  top: false
+  source_system_id: 8_4634_8

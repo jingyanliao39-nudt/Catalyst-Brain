@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 116
+  bulk_id: mp-8954
+  bulk_symbol: TaSe2
+  ads_smiles: '*COH'
+  miller: (2,1,1)
+  shift: 0.124
+  top: true
+  source_system_id: 8_2343_19

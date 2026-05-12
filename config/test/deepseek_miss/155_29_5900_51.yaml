@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 21
+  bulk_id: mp-1105914
+  bulk_symbol: KCaH3
+  ads_smiles: '*COCH2O'
+  miller: (2,0,1)
+  shift: 0.095
+  top: false
+  source_system_id: 29_5900_51

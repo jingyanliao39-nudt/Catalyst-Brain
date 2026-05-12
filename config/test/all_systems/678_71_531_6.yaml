@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 84
+  bulk_id: mp-21845
+  bulk_symbol: FePd3
+  ads_smiles: '*NH2'
+  miller: (2,1,1)
+  shift: 0.062
+  top: false
+  source_system_id: 71_531_6

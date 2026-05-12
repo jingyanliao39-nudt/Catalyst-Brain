@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 180
+  bulk_id: mp-1028526
+  bulk_symbol: TeWS
+  ads_smiles: '*C'
+  miller: (2,-1,2)
+  shift: 0.275
+  top: true
+  source_system_id: 4_7696_78

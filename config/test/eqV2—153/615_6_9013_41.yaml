@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 101
+  bulk_id: mp-1215958
+  bulk_symbol: YFeCo
+  ads_smiles: '*CH'
+  miller: (0,1,1)
+  shift: 0.156
+  top: true
+  source_system_id: 6_9013_41

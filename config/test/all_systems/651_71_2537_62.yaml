@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 117
+  bulk_id: mp-1103212
+  bulk_symbol: TaRh2
+  ads_smiles: '*NH2'
+  miller: (1,2,1)
+  shift: 0.146
+  top: true
+  source_system_id: 71_2537_62

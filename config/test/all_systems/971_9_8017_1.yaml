@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 164
+  bulk_id: mp-1027642
+  bulk_symbol: Te3Mo2S
+  ads_smiles: '*CH2'
+  miller: (1,1,1)
+  shift: 0.188
+  top: true
+  source_system_id: 9_8017_1

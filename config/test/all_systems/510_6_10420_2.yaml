@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 209
+  bulk_id: mp-1218136
+  bulk_symbol: Ta4NiS8
+  ads_smiles: '*CH'
+  miller: (1,1,1)
+  shift: 0.125
+  top: true
+  source_system_id: 6_10420_2

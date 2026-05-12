@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 151
+  bulk_id: mp-1397
+  bulk_symbol: Rb2Te
+  ads_smiles: '*H'
+  miller: (2,1,2)
+  shift: 0.119
+  top: false
+  source_system_id: 1_4002_26

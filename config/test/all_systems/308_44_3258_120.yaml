@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 41
+  bulk_id: mp-1188869
+  bulk_symbol: Nb2N3
+  ads_smiles: '*OCHCH3'
+  miller: (0,1,0)
+  shift: 0.022
+  top: true
+  source_system_id: 44_3258_120

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 99
+  bulk_id: mp-569600
+  bulk_symbol: Ge3As4
+  ads_smiles: '*CH3'
+  miller: (2,1,1)
+  shift: 0.133
+  top: false
+  source_system_id: 12_3701_25

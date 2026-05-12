@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 53
+  bulk_id: mp-21911
+  bulk_symbol: PRu2
+  ads_smiles: '*COCH2OH'
+  miller: (0,2,1)
+  shift: 0.164
+  top: false
+  source_system_id: 41_2219_85

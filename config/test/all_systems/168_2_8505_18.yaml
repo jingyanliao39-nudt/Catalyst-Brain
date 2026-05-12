@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 125
+  bulk_id: mp-1095372
+  bulk_symbol: MnBi4S7
+  ads_smiles: '*OH'
+  miller: (1,1,0)
+  shift: 0.287
+  top: true
+  source_system_id: 2_8505_18

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 95
+  bulk_id: mp-1698
+  bulk_symbol: SrSn
+  ads_smiles: '*CH'
+  miller: (1,1,0)
+  shift: 0.278
+  top: true
+  source_system_id: 6_3050_8

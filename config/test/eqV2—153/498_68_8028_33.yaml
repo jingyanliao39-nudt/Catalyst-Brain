@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 173
+  bulk_id: mp-505633
+  bulk_symbol: Cs2Zn3S4
+  ads_smiles: '*N*NO'
+  miller: (2,1,1)
+  shift: 0.048
+  top: true
+  source_system_id: 68_8028_33

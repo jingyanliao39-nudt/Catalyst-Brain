@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 77
+  bulk_id: mp-1014369
+  bulk_symbol: Cr3N4
+  ads_smiles: '*CHOHCH2'
+  miller: (1,1,0)
+  shift: 0.141
+  top: true
+  source_system_id: 46_1505_22

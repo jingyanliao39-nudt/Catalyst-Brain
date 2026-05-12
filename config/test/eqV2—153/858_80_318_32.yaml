@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 132
+  bulk_id: mp-555
+  bulk_symbol: Fe8N
+  ads_smiles: '*ONOH'
+  miller: (1,0,2)
+  shift: 0.015
+  top: true
+  source_system_id: 80_318_32

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 116
+  bulk_id: mp-1224651
+  bulk_symbol: K3(FeSe)8
+  ads_smiles: '*CH'
+  miller: (1,1,2)
+  shift: 0.063
+  top: true
+  source_system_id: 6_11104_287

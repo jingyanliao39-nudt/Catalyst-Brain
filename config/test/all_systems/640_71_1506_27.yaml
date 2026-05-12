@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 117
+  bulk_id: mp-13364
+  bulk_symbol: CaZn2
+  ads_smiles: '*NH2'
+  miller: (2,1,0)
+  shift: 0.083
+  top: false
+  source_system_id: 71_1506_27

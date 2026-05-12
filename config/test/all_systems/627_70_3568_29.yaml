@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 81
+  bulk_id: mp-1217092
+  bulk_symbol: Ti3Al5
+  ads_smiles: '*ONNH2'
+  miller: (1,2,2)
+  shift: 0.086
+  top: false
+  source_system_id: 70_3568_29

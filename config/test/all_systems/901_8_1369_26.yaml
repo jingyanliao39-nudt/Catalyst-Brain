@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 48
+  bulk_id: mp-2243
+  bulk_symbol: NbS
+  ads_smiles: '*COH'
+  miller: (1,0,2)
+  shift: 0.111
+  top: false
+  source_system_id: 8_1369_26

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 44
+  bulk_id: mp-919914
+  bulk_symbol: Unknown
+  ads_smiles: '*COHCOH'
+  miller: (1,0,1)
+  shift: 0.091
+  top: false
+  source_system_id: 32_1720_31

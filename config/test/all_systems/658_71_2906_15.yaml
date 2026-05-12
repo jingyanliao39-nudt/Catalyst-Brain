@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 94
+  bulk_id: mp-30685
+  bulk_symbol: ZrGa3
+  ads_smiles: '*NH2'
+  miller: (1,0,1)
+  shift: 0.375
+  top: false
+  source_system_id: 71_2906_15

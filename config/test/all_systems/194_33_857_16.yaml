@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 79
+  bulk_id: mp-607225
+  bulk_symbol: Mn2Ga5
+  ads_smiles: '*CCH3'
+  miller: (1,1,0)
+  shift: 0.193
+  top: true
+  source_system_id: 33_857_16

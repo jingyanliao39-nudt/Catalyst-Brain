@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 164
+  bulk_id: mp-489
+  bulk_symbol: Ge4Ir
+  ads_smiles: '*ONOH'
+  miller: (2,1,1)
+  shift: 0.169
+  top: false
+  source_system_id: 80_814_68

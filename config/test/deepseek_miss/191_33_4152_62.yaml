@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 62
+  bulk_id: mp-675628
+  bulk_symbol: Unknown
+  ads_smiles: '*CCH3'
+  miller: (0,1,0)
+  shift: 0.132
+  top: true
+  source_system_id: 33_4152_62

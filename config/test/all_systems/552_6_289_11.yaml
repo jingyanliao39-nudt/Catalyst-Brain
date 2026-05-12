@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 70
+  bulk_id: mp-949
+  bulk_symbol: CoPt
+  ads_smiles: '*CH'
+  miller: (2,0,1)
+  shift: 0.125
+  top: true
+  source_system_id: 6_289_11

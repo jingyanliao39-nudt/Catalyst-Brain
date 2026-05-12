@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 162
+  bulk_id: mp-14444
+  bulk_symbol: Hf(PS3)2
+  ads_smiles: '*COH'
+  miller: (1,2,1)
+  shift: 0.059
+  top: true
+  source_system_id: 8_7217_142

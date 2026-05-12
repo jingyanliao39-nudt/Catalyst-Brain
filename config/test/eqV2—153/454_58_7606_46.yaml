@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 24
+  bulk_id: mp-1080665
+  bulk_symbol: ScPIr
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (2,1,1)
+  shift: 0.177
+  top: true
+  source_system_id: 58_7606_46

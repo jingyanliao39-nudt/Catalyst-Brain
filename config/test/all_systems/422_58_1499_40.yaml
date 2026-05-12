@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 25
+  bulk_id: mp-685050
+  bulk_symbol: Nb16N9
+  ads_smiles: '*NH2N(CH3)2'
+  miller: (1,2,1)
+  shift: 0.062
+  top: true
+  source_system_id: 58_1499_40

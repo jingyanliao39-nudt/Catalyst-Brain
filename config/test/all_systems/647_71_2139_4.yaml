@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 142
+  bulk_id: mp-999544
+  bulk_symbol: YAg2
+  ads_smiles: '*NH2'
+  miller: (2,2,1)
+  shift: 0.063
+  top: true
+  source_system_id: 71_2139_4

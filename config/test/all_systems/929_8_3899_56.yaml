@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 144
+  bulk_id: mp-1205858
+  bulk_symbol: Hf2Ni7
+  ads_smiles: '*COH'
+  miller: (2,1,-2)
+  shift: 0.055
+  top: false
+  source_system_id: 8_3899_56

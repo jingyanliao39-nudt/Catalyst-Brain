@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 49
+  bulk_id: mp-571133
+  bulk_symbol: NbSe2
+  ads_smiles: '*COCH2OH'
+  miller: (1,0,2)
+  shift: 0.69
+  top: true
+  source_system_id: 41_1447_86

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 123
+  bulk_id: mp-1212307
+  bulk_symbol: In7Ni3
+  ads_smiles: '*COH'
+  miller: (2,1,0)
+  shift: 0.024
+  top: false
+  source_system_id: 8_3793_31

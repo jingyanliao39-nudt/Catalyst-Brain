@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 135
+  bulk_id: mp-1104242
+  bulk_symbol: K(MoSe)3
+  ads_smiles: '*ONOH'
+  miller: (2,1,2)
+  shift: 0.1
+  top: true
+  source_system_id: 80_6773_36

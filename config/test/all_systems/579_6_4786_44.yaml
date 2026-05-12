@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 69
+  bulk_id: mp-1025517
+  bulk_symbol: Ti2InN
+  ads_smiles: '*CH'
+  miller: (1,0,2)
+  shift: 0.337
+  top: false
+  source_system_id: 6_4786_44

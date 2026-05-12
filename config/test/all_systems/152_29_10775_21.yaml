@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 66
+  bulk_id: mp-1221396
+  bulk_symbol: Na(NbSe2)2
+  ads_smiles: '*COCH2O'
+  miller: (2,1,2)
+  shift: 0.036
+  top: true
+  source_system_id: 29_10775_21

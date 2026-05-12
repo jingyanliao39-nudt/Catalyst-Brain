@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 143
+  bulk_id: mp-1029689
+  bulk_symbol: Ca2MoN3
+  ads_smiles: '*COH'
+  miller: (1,2,1)
+  shift: 0.012
+  top: true
+  source_system_id: 8_5719_133

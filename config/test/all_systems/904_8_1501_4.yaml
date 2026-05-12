@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 120
+  bulk_id: mp-7597
+  bulk_symbol: NbSe2
+  ads_smiles: '*COH'
+  miller: (1,1,1)
+  shift: 0.084
+  top: false
+  source_system_id: 8_1501_4

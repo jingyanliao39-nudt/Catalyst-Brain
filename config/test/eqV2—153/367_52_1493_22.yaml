@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 96
+  bulk_id: mp-685124
+  bulk_symbol: Ni19Se20
+  ads_smiles: '*CH2CH3'
+  miller: (1,1,0)
+  shift: 0.22
+  top: false
+  source_system_id: 52_1493_22

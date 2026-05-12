@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 84
+  bulk_id: mp-984519
+  bulk_symbol: NaAsSe2
+  ads_smiles: '*CH'
+  miller: (1,0,2)
+  shift: 0.046
+  top: true
+  source_system_id: 6_5151_233

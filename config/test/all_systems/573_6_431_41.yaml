@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 124
+  bulk_id: mp-1490
+  bulk_symbol: AlAu4
+  ads_smiles: '*CH'
+  miller: (1,1,0)
+  shift: 0.327
+  top: false
+  source_system_id: 6_431_41

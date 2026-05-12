@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 129
+  bulk_id: mp-1019276
+  bulk_symbol: TaSe2
+  ads_smiles: '*C*C'
+  miller: (2,-1,2)
+  shift: 0.0
+  top: true
+  source_system_id: 17_2359_31

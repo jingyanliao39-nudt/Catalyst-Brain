@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 83
+  bulk_id: mp-2831
+  bulk_symbol: FePd
+  ads_smiles: '*NH'
+  miller: (0,0,1)
+  shift: 0.25
+  top: false
+  source_system_id: 74_300_19

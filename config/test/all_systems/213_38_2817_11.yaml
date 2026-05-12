@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 85
+  bulk_id: mp-27731
+  bulk_symbol: HfH2
+  ads_smiles: '*CHCHOH'
+  miller: (1,0,1)
+  shift: 0.062
+  top: true
+  source_system_id: 38_2817_11

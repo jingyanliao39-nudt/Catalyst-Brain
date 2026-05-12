@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 24
+  bulk_id: mp-1235
+  bulk_symbol: TiIr
+  ads_smiles: '*CHCH2'
+  miller: (2,0,1)
+  shift: 0.125
+  top: false
+  source_system_id: 34_928_12

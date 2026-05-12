@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 50
+  bulk_id: mp-20905
+  bulk_symbol: OsS2
+  ads_smiles: '*CH3'
+  miller: (1,0,0)
+  shift: 0.058
+  top: true
+  source_system_id: 12_1097_22

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 102
+  bulk_id: mp-1184594
+  bulk_symbol: Hf2TcPd
+  ads_smiles: '*CH'
+  miller: (2,1,0)
+  shift: 0.042
+  top: false
+  source_system_id: 6_9518_9

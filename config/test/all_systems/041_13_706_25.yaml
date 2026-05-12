@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 49
+  bulk_id: mp-10052
+  bulk_symbol: TiAs
+  ads_smiles: '*OCH3'
+  miller: (2,-1,2)
+  shift: 0.05
+  top: false
+  source_system_id: 13_706_25

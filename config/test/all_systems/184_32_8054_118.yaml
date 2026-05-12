@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 37
+  bulk_id: mp-542493
+  bulk_symbol: Sc5(Co2Si5)2
+  ads_smiles: '*COHCOH'
+  miller: (0,0,1)
+  shift: 0.25
+  top: true
+  source_system_id: 32_8054_118

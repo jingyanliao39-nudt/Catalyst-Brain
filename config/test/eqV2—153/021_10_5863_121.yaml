@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 133
+  bulk_id: mp-1102860
+  bulk_symbol: CaPdPb
+  ads_smiles: '*CH2*O'
+  miller: (0,1,2)
+  shift: 0.036
+  top: false
+  source_system_id: 10_5863_121

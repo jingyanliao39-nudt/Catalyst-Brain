@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 88
+  bulk_id: mp-947
+  bulk_symbol: Au2S
+  ads_smiles: '*N*NO'
+  miller: (1,0,0)
+  shift: 0.125
+  top: false
+  source_system_id: 68_700_14

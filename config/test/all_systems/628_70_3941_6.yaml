@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 71
+  bulk_id: mp-570491
+  bulk_symbol: TaNi3
+  ads_smiles: '*ONNH2'
+  miller: (2,1,2)
+  shift: 0.083
+  top: true
+  source_system_id: 70_3941_6

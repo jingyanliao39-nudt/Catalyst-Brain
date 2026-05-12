@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 77
+  bulk_id: mp-833
+  bulk_symbol: CaPd2
+  ads_smiles: '*ONOH'
+  miller: (1,1,0)
+  shift: 0.062
+  top: true
+  source_system_id: 80_1477_8

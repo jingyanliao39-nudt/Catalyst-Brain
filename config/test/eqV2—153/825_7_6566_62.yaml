@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 110
+  bulk_id: mp-9881
+  bulk_symbol: KAuSe
+  ads_smiles: '*CHO'
+  miller: (0,2,1)
+  shift: 0.11
+  top: false
+  source_system_id: 7_6566_62

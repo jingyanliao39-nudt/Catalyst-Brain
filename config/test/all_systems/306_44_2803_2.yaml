@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 56
+  bulk_id: mp-866108
+  bulk_symbol: HfZn3
+  ads_smiles: '*OCHCH3'
+  miller: (1,1,0)
+  shift: 0.12
+  top: true
+  source_system_id: 44_2803_2

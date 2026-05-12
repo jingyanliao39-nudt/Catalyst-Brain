@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 88
+  bulk_id: mp-1221572
+  bulk_symbol: MnInRh2
+  ads_smiles: '*CH'
+  miller: (1,1,1)
+  shift: 0.067
+  top: false
+  source_system_id: 6_8567_2

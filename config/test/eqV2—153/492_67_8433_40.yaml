@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 68
+  bulk_id: mp-1219296
+  bulk_symbol: ScGaCu
+  ads_smiles: '*NO2NO2'
+  miller: (2,1,-2)
+  shift: 0.01
+  top: true
+  source_system_id: 67_8433_40

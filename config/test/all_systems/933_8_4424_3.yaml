@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 65
+  bulk_id: mp-865140
+  bulk_symbol: MnGaRu2
+  ads_smiles: '*COH'
+  miller: (1,1,1)
+  shift: 0.125
+  top: false
+  source_system_id: 8_4424_3

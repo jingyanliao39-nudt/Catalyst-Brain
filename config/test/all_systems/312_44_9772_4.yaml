@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 69
+  bulk_id: mp-1186125
+  bulk_symbol: NaCd2Pd
+  ads_smiles: '*OCHCH3'
+  miller: (2,2,1)
+  shift: 0.025
+  top: true
+  source_system_id: 44_9772_4

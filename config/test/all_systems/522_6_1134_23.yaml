@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 72
+  bulk_id: mp-862620
+  bulk_symbol: IrRu3
+  ads_smiles: '*CH'
+  miller: (1,0,0)
+  shift: 0.249
+  top: true
+  source_system_id: 6_1134_23

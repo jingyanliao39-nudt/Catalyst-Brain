@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 49
+  bulk_id: mp-977410
+  bulk_symbol: NbGaFe2
+  ads_smiles: '*COCH3'
+  miller: (1,0,0)
+  shift: 0.125
+  top: true
+  source_system_id: 35_5244_10

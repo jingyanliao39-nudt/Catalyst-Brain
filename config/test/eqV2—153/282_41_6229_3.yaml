@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 40
+  bulk_id: mp-864764
+  bulk_symbol: Ta2FeOs
+  ads_smiles: '*COCH2OH'
+  miller: (1,1,1)
+  shift: 0.125
+  top: false
+  source_system_id: 41_6229_3

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 89
+  bulk_id: mp-1217407
+  bulk_symbol: Tc3Os
+  ads_smiles: '*ONNH2'
+  miller: (2,1,1)
+  shift: 0.292
+  top: false
+  source_system_id: 70_3506_16

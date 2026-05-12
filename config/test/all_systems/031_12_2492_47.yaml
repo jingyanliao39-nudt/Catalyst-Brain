@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 95
+  bulk_id: mp-8462
+  bulk_symbol: Hf3Al2
+  ads_smiles: '*CH3'
+  miller: (2,1,0)
+  shift: 0.06
+  top: true
+  source_system_id: 12_2492_47

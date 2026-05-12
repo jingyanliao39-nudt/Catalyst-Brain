@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 146
+  bulk_id: mp-29713
+  bulk_symbol: NbTeCl9
+  ads_smiles: '*OH2'
+  miller: (1,2,-2)
+  shift: 0.0
+  top: true
+  source_system_id: 3_7430_341

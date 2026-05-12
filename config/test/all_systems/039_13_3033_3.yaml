@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 72
+  bulk_id: mp-1471
+  bulk_symbol: Zr3Al
+  ads_smiles: '*OCH3'
+  miller: (1,1,0)
+  shift: 0.125
+  top: true
+  source_system_id: 13_3033_3

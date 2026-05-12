@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 62
+  bulk_id: mp-3938
+  bulk_symbol: ZrSiS
+  ads_smiles: '*COHCH3'
+  miller: (2,1,2)
+  shift: 0.043
+  top: true
+  source_system_id: 45_6355_12

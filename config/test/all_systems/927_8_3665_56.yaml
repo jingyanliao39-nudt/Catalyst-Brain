@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 87
+  bulk_id: mp-1192350
+  bulk_symbol: NbFe2
+  ads_smiles: '*COH'
+  miller: (1,0,0)
+  shift: 0.412
+  top: true
+  source_system_id: 8_3665_56

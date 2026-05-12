@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 70
+  bulk_id: mp-1217098
+  bulk_symbol: Ti4CuAg
+  ads_smiles: '*CHO'
+  miller: (0,0,1)
+  shift: 0.264
+  top: false
+  source_system_id: 7_8396_50

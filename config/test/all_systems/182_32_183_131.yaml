@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 39
+  bulk_id: mp-1079297
+  bulk_symbol: Si
+  ads_smiles: '*COHCOH'
+  miller: (0,0,1)
+  shift: 0.236
+  top: true
+  source_system_id: 32_183_131

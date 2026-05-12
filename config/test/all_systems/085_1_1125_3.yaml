@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 168
+  bulk_id: mp-27953
+  bulk_symbol: Mo2N
+  ads_smiles: '*H'
+  miller: (2,1,2)
+  shift: 0.083
+  top: true
+  source_system_id: 1_1125_3

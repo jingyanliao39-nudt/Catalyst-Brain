@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 78
+  bulk_id: mp-1187881
+  bulk_symbol: Y3Pb
+  ads_smiles: '*CCHOH'
+  miller: (2,1,1)
+  shift: 0.042
+  top: false
+  source_system_id: 23_3204_9

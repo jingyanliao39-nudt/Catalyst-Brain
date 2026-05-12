@@ -1,0 +1,6 @@
+paths:
+  metadata_path: "data/processed/updated_sid_to_details.pkl"
+  save_dir: "results/ocp+eqV153+all_systems"
+  system_dir: "config/test/all_systems"  
+  bulk_db_path: "fairchem-forked/src/fairchem/data/oc/databases/pkls/bulks.pkl"
+  ads_db_path: "fairchem-forked/src/fairchem/data/oc/databases/pkls/adsorbates.pkl"

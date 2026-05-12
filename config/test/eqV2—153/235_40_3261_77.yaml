@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 59
+  bulk_id: mp-1217255
+  bulk_symbol: Ti13Sb3
+  ads_smiles: '*CHOCHOH'
+  miller: (2,0,1)
+  shift: 0.312
+  top: true
+  source_system_id: 40_3261_77

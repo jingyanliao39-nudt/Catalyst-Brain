@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 69
+  bulk_id: mp-1020
+  bulk_symbol: TaRh3
+  ads_smiles: '*COH'
+  miller: (2,1,0)
+  shift: 0.083
+  top: true
+  source_system_id: 8_2482_7

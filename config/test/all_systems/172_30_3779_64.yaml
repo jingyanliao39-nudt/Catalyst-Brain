@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 104
+  bulk_id: mp-1221420
+  bulk_symbol: MoPt3
+  ads_smiles: '*CHO*CHO'
+  miller: (0,1,0)
+  shift: 0.25
+  top: true
+  source_system_id: 30_3779_64

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 74
+  bulk_id: mp-1078430
+  bulk_symbol: ScCuGe
+  ads_smiles: '*CH'
+  miller: (1,1,1)
+  shift: 0.179
+  top: true
+  source_system_id: 6_6324_1

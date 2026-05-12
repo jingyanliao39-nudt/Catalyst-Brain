@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 54
+  bulk_id: mp-2716
+  bulk_symbol: TiNi
+  ads_smiles: '*CHOCH2OH'
+  miller: (1,1,0)
+  shift: 0.072
+  top: true
+  source_system_id: 49_1204_8

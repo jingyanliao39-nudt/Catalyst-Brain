@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 116
+  bulk_id: mp-2044
+  bulk_symbol: Zr5Al3
+  ads_smiles: '*COH'
+  miller: (2,0,1)
+  shift: 0.034
+  top: false
+  source_system_id: 8_2966_58

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 61
+  bulk_id: mp-1722
+  bulk_symbol: Zn13Fe
+  ads_smiles: '*OHCH3'
+  miller: (0,1,0)
+  shift: 0.25
+  top: true
+  source_system_id: 16_834_196

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 167
+  bulk_id: mp-581990
+  bulk_symbol: Bi3Rh
+  ads_smiles: '*NH2'
+  miller: (2,2,1)
+  shift: 0.166
+  top: true
+  source_system_id: 71_3297_17

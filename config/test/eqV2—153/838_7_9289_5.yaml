@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 83
+  bulk_id: mp-1221619
+  bulk_symbol: MnFeSi2
+  ads_smiles: '*CHO'
+  miller: (1,1,1)
+  shift: 0.184
+  top: false
+  source_system_id: 7_9289_5

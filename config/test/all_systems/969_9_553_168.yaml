@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 105
+  bulk_id: mp-405
+  bulk_symbol: Ga2Pd5
+  ads_smiles: '*CH2'
+  miller: (0,0,1)
+  shift: 0.149
+  top: true
+  source_system_id: 9_553_168

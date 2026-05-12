@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 37
+  bulk_id: mp-29152
+  bulk_symbol: Zr2CoP
+  ads_smiles: '*CHOCH2OH'
+  miller: (0,2,1)
+  shift: 0.125
+  top: true
+  source_system_id: 49_6462_103

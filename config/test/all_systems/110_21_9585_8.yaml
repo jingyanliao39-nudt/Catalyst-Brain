@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 43
+  bulk_id: mp-1187434
+  bulk_symbol: Ti2FeTc
+  ads_smiles: '*CCHO'
+  miller: (2,1,0)
+  shift: 0.042
+  top: true
+  source_system_id: 21_9585_8

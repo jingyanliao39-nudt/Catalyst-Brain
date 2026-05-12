@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 79
+  bulk_id: mp-867113
+  bulk_symbol: Ca2AsAu
+  ads_smiles: '*NO3'
+  miller: (2,1,1)
+  shift: 0.062
+  top: true
+  source_system_id: 78_4873_7

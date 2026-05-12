@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 97
+  bulk_id: mp-927
+  bulk_symbol: CuP2
+  ads_smiles: '*NH2'
+  miller: (0,1,2)
+  shift: 0.0
+  top: true
+  source_system_id: 71_2062_126

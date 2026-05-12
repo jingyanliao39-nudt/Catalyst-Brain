@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 97
+  bulk_id: mp-12990
+  bulk_symbol: Ti2AlC
+  ads_smiles: '*NO2'
+  miller: (2,1,0)
+  shift: 0.056
+  top: true
+  source_system_id: 75_5764_15

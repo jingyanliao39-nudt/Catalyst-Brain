@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 108
+  bulk_id: mp-1078973
+  bulk_symbol: Sr(InP)2
+  ads_smiles: '*CHO'
+  miller: (2,2,1)
+  shift: 0.014
+  top: false
+  source_system_id: 7_5984_7

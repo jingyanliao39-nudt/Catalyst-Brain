@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 103
+  bulk_id: mp-10677
+  bulk_symbol: CaPAu
+  ads_smiles: '*CHO'
+  miller: (2,2,1)
+  shift: 0.031
+  top: false
+  source_system_id: 7_6875_3

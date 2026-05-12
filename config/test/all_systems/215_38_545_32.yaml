@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 71
+  bulk_id: mp-30066
+  bulk_symbol: Sb7Pd20
+  ads_smiles: '*CHCHOH'
+  miller: (1,1,0)
+  shift: 0.16
+  top: false
+  source_system_id: 38_545_32

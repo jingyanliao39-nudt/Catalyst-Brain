@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 30
+  bulk_id: mp-11575
+  bulk_symbol: YTl
+  ads_smiles: '*CHOHCH3'
+  miller: (1,1,1)
+  shift: 0.083
+  top: true
+  source_system_id: 54_3968_0

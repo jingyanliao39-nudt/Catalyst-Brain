@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 50
+  bulk_id: mp-675326
+  bulk_symbol: Nb4IrSe10
+  ads_smiles: '*COHCOH'
+  miller: (0,1,1)
+  shift: 0.191
+  top: true
+  source_system_id: 32_4820_379

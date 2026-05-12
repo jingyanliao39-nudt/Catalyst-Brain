@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 69
+  bulk_id: mp-31481
+  bulk_symbol: Ca3Ga3Ir2
+  ads_smiles: '*OHCH3'
+  miller: (1,0,1)
+  shift: 0.461
+  top: true
+  source_system_id: 16_5258_75

@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 100
+  bulk_id: "mp-1065309"
+  bulk_symbol: "Al3Zr"
+  ads_smiles: "*OCHCH3"
+  miller: (1, 0, 1)
+  shift: 0.375
+  top: false
+  source_system_id: "custom_exp_18"

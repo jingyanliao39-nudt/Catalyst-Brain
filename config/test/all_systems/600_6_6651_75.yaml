@@ -1,0 +1,10 @@
+system_info:
+  system_id: null
+  num_site: 98
+  bulk_id: mp-15963
+  bulk_symbol: HfPRu
+  ads_smiles: '*CH'
+  miller: (1,0,1)
+  shift: 0.208
+  top: false
+  source_system_id: 6_6651_75
